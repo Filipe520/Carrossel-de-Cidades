@@ -12,6 +12,8 @@ body {
     background-color: #000;
     color: #eee;
     font-size: 12px;
+
+    overflow: hidden;
 }
 
 header {
